@@ -203,5 +203,32 @@ textarea {
 
 
 @media screen and (max-width: 980px) {
-	
+	.wrapper {
+		width: 610px;
+		min-height: 1500px;
+	}
+
+	.left-box {
+		width: 297px;
+	}
+
+	p {
+		float: left;
+		margin-top: 8px;
+	}
+
+	.project-link-even {
+		float: left;
+	}
+
+	#image {
+		width: 100%;
+		height: 100%;
+	}
+
+	.project-text {
+		width: 231px;
+		height: 29px;
+	}
+
 }
