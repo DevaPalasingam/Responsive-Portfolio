@@ -317,6 +317,31 @@ textarea {
 		margin-bottom: 8px;
 	}
 
+	/*---This section is for the portfolio pictures-----*/	
+
+	.project-link-even {
+		float: left;
+		padding-bottom: 10px;
+	}
+	
+	.project-ling-odd {
+		padding-bottom: 10px;
+	}
+
+	#image {
+		width: 100%;
+		height: 100%;
+		padding-top: 15px;
+	}
+
+	.project-text {
+		width: 231px;
+		height: 29px;
+		position: absolute;
+	}
+
+/*-------------------------------------------------------*/
+
 	h2 {
 		text-align: left;
 	}
