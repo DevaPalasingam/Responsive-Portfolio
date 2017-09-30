@@ -238,4 +238,8 @@ textarea {
 		position: absolute;
 	}
 	
+	textarea {
+		width: 100%;
+	}
+
 }
